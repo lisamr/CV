@@ -1,0 +1,137 @@
+---
+title: "CV"
+author: "Lisa M. Rosenthal"
+email: lrosenthal@ucdavis.edu
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "~/Box/CV_alldocs/CV/output") })
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: "~/Box/CV_alldocs/CV/templates/template_cv.tex"
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: PhD candidate
+linkcolor: blue
+fontawesome: yes
+phone: 510-339-2865
+address: 4240 55th st. Sacramento, CA 95820
+updated: no
+urlcolor: blue
+web: lisamr.github.io
+---
+
+# Education
+
+*University of California, Davis*, PhD candidate \hfill 2016--current
+
+- NSF Graduate Fellow
+- Graduate Group in Ecology, Department of Plant Pathology
+- Advisor: Dave Rizzo
+- Dissertation focuses on identifying diversity-associated mechanisms of disease risk
+
+*University of California, Berkeley*, B.S. Molecular Environmental Biology \hfill 2009--2013  
+
+- High Distinction and Honors
+- Honors advisor: Prof. Tom Bruns
+
+\setlength{\parindent}{-.25in}
+\setlength{\leftskip}{0.25in}
+\setlength{\parskip}{8pt}
+\noindent
+
+# Publications
+
+Petit E, Silver C, Cornille A, Gladieux P, **Rosenthal L**, Bruns E, Yee S, Antonovics J, Giraud T, Hood M. 2017. Co-occurrence and hybridization of anther-smut pathogens specialized on Dianthus hosts. *Molecular Ecology* 26:1877–1890.  
+
+**Rosenthal LM**, Branco S, Chung JA, Glassman SI, Liao HL, Peay KG, Smith DP, Talbot JM, Taylor JW, Vellinga EC, Vilgalys R, Bruns TD. 2017. Survey of corticioid fungi in North American pinaceous forests reveals hyperdiversity, underpopulated sequence databases, and species that are potentially ectomycorrhizal. *Mycologia* 109:115–127.  
+
+Feurtey A, Gladieux P, Snirc A, Hood M, Cornille A, **Rosenthal L**, Giraud, T. 2016. Strong phylogeographic costructure between the anther fungus and its white campion host. *New Phytologist* 212:668–679.  
+
+Waring BG, Gei MG, **Rosenthal LM**, Powers JS. 2016. Plant-mycorrhizal interactions along a gradient of soil fertility in tropical dry forest. *Journal of tropical ecology* 32:314–323.  
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+
+# Grants, Fellowships, & Awards 
+
+Graduate Student Scholarship, $1,000, *Northern California Botanists* \hfill 2018  
+Miller Plant Science Award, $2,000, *UC Davis* \hfill 2018  
+Jastro Graduate Research Award, $1,400, *UC Davis* \hfill 2018  
+Graduate Research Fellowship, $136,000, *National Science Foundation* \hfill 2016, 2019, 2020  
+Graduate Group in Ecology Fellowship, $46,800, *UC Davis* \hfill 2017, 2018  
+Molecular Environmental Biology Major Citation Award, $200, *UC Berkeley* \hfill 2014  
+Research Experience for Undergraduates Award, $5,000, *National Science Foundation* \hfill 2013  
+
+\setlength{\parindent}{-.25in}
+\setlength{\leftskip}{0.25in}
+\setlength{\parskip}{8pt}
+\noindent
+
+# Presentations and Posters
+
+**Rosenthal LM**, Fajardo SN, Rizzo DM. 2019. "Sporulation potential of *Phytophthora ramorum* differs among common California plant species". *CA Forest Pest Council Meeting.* Poster.
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+
+# Teaching and Mentoring Experience 
+
+## UC Davis teaching assistant  
+*Crisis in the Environment, SAS 9* \hfill Spring 2019  
+*Introductory Mycology, PLP 148* \hfill Fall 2017  
+
+## K-12 Education
+
+*Girls Outdoor and Leadership mentor*, UC Davis \hfill 2018--current  
+*Teaching specialist*, Lawrence Hall of Science, Berkeley, CA  \hfill Sep 2011--May 2012  
+
+
+## Workshops
+*R Carpentries in Ecology instructor*, UC Davis \hfill Dec 2019  
+*Section leader for NSF GRFP grant writing applicants*, UC Davis \hfill Fall 2016  
+*Mushroom Identification Workshop instructor*, Hitchcock Env. Center, Amherst, MA \hfill Sep 2015  
+
+  
+# Service and Outreach
+*Ecology Graduate Student Symposium keynote speaker liason*, UC Davis \hfill 2020  
+*Intercampus shuttle advocate leader*, UC Davis \hfill Fall 2019   
+*Graduate Group in Ecology Awards committee member*, UC Davis \hfill 2019  
+*Girls Outdoor and Leadership curriculum member*, UC Davis \hfill 2018, 2019  
+*Eco/evo seminar committee member*, UC Davis \hfill 2017--current 
+
+# Past Research Appointments
+
+*Laboratory research assistant*, Amherst College \hfill Mar 2015--May 2016  
+Amherst, MA
+
+- Supervisor: Prof. Michael Hood
+- Assisted projects addressing the evolutionary ecology of the anther smut fungal pathogen system using molecular, culture-based, greenhouse and field approaches
+
+*Field research assistant*, Estación Horizontes \hfill Jun--Oct 2014  
+Liberia, Costa Rica 
+
+- Supervisor: Prof. Jennifer Powers, University of Minnesota
+- Supported field projects involving forest restoration, ecophysiology, decomposition, soil respiration and precipitation effects on plants
+
+*Honors student*, University of California, Berkeley \hfill Jun 2012--May 2013 & Jan--May 2014  
+Berkeley, CA 
+
+- Supervisor: Prof. Tom Bruns
+- Investigated distribution and diversity of corticioid fungi on continental scale and published results
+
+*REU Fellow*, Mountain Lake Biological Station \hfill May--Aug 2013  
+Pembroke, VA
+
+- Supervisor: Prof. Henry Wilbur, University of Virginia
+- Studied population dynamics of diseased American chestnut stands with different logging treatments
+
+# Technical skills  
+
+Culture-based methods, microscopy, enzyme assays, DNA extraction, PCR, gel electrophoresis  
+R, ArcGIS, QGIS, QIIME  
+Taxonomic expertise in California trees and shrubs, California mushrooms, diagnosis of common forest pathogens  
+Wilderness First Responder and CPR certified  
