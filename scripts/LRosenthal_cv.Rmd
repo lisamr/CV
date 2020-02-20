@@ -19,7 +19,7 @@ linkcolor: blue
 fontawesome: yes
 phone: 510-339-2865
 address: 4240 55th st. Sacramento, CA 95820
-updated: no
+updated: false
 urlcolor: blue
 web: lisamr.github.io
 ---
@@ -36,7 +36,7 @@ web: lisamr.github.io
 *University of California, Berkeley*, B.S. Molecular Environmental Biology \hfill 2009--2013  
 
 - High Distinction and Honors
-- Honors advisor: Prof. Tom Bruns
+- Honors advisor: Tom Bruns
 
 \setlength{\parindent}{-.25in}
 \setlength{\leftskip}{0.25in}
@@ -58,11 +58,11 @@ Waring BG, Gei MG, **Rosenthal LM**, Powers JS. 2016. Plant-mycorrhizal interact
 
 # Grants, Fellowships, & Awards 
 
-Graduate Student Scholarship, $1,000, *Northern California Botanists* \hfill 2018  
-Miller Plant Science Award, $2,000, *UC Davis* \hfill 2018  
-Jastro Graduate Research Award, $1,400, *UC Davis* \hfill 2018  
 Graduate Research Fellowship, $136,000, *National Science Foundation* \hfill 2016, 2019, 2020  
 Graduate Group in Ecology Fellowship, $46,800, *UC Davis* \hfill 2017, 2018  
+Graduate Student Scholarship, $1,000, *Northern California Botanists* \hfill 2018  
+Miller Plant Science Award, $2,000, *UC Davis* \hfill 2018  
+Jastro Graduate Research Award, $1,400, *UC Davis* \hfill 2017  
 Molecular Environmental Biology Major Citation Award, $200, *UC Berkeley* \hfill 2014  
 Research Experience for Undergraduates Award, $5,000, *National Science Foundation* \hfill 2013  
 
@@ -72,6 +72,8 @@ Research Experience for Undergraduates Award, $5,000, *National Science Foundati
 \noindent
 
 # Presentations and Posters
+
+**Rosenthal LM**, Fajardo SN, Rizzo DM. 2020. "Sporulation potential of *Phytophthora ramorum* differs among common California plant species". *UC Davis Ecology Graduate Symposium.* Poster.  
 
 **Rosenthal LM**, Fajardo SN, Rizzo DM. 2019. "Sporulation potential of *Phytophthora ramorum* differs among common California plant species". *CA Forest Pest Council Meeting.* Poster.
 
@@ -90,8 +92,11 @@ Research Experience for Undergraduates Award, $5,000, *National Science Foundati
 *Teaching specialist*, Lawrence Hall of Science, Berkeley, CA  \hfill Sep 2011--May 2012  
 
 
-## Workshops
+## Workshops and Seminars
+*Data Manipulation in R*, UC Davis \hfill Feb 2020  
+*Analysis Using Bayesian Poisson GLMMs*, UC Davis \hfill Feb 2020  
 *R Carpentries in Ecology instructor*, UC Davis \hfill Dec 2019  
+*Community Disease Ecology seminar co-lead*, UC Davis \hfill Apr--Jun 2018    
 *Section leader for NSF GRFP grant writing applicants*, UC Davis \hfill Fall 2016  
 *Mushroom Identification Workshop instructor*, Hitchcock Env. Center, Amherst, MA \hfill Sep 2015  
 
