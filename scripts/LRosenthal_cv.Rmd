@@ -19,14 +19,14 @@ linkcolor: blue
 fontawesome: yes
 phone: 510-339-2865
 address: 4240 55th st. Sacramento, CA 95820
-updated: false
+updated: true
 urlcolor: blue
 web: lisamr.github.io
 ---
 
 # Education
 
-*University of California, Davis*, PhD candidate \hfill 2016--current
+*University of California, Davis*, PhD candidate \hfill Sep 2016--current
 
 - NSF Graduate Fellow
 - Graduate Group in Ecology, Department of Plant Pathology
@@ -44,6 +44,8 @@ web: lisamr.github.io
 \noindent
 
 # Publications
+
+**Rosenthal LM**, Fajardo SN, Rizzo DM. In press. "Sporulation potential of *Phytophthora ramorum* differs among common California plant species". *Plant Disease*.   
 
 Petit E, Silver C, Cornille A, Gladieux P, **Rosenthal L**, Bruns E, Yee S, Antonovics J, Giraud T, Hood M. 2017. Co-occurrence and hybridization of anther-smut pathogens specialized on Dianthus hosts. *Molecular Ecology* 26:1877–1890.  
 
@@ -72,6 +74,8 @@ Research Experience for Undergraduates Award, $5,000, *National Science Foundati
 \noindent
 
 # Presentations and Posters
+
+**Rosenthal LM**, Rizzo DM. 2020. "Host density and competency jointly determine the diversity-disease relationship". *Ecological Society of America.* Oral abstract accepted, declined due to experiment postponement from Covid-19.  
 
 **Rosenthal LM**, Fajardo SN, Rizzo DM. 2020. "Sporulation potential of *Phytophthora ramorum* differs among common California plant species". *UC Davis Ecology Graduate Symposium.* Poster.  
 
@@ -106,7 +110,7 @@ Research Experience for Undergraduates Award, $5,000, *National Science Foundati
 *Intercampus shuttle advocate leader*, UC Davis \hfill Fall 2019   
 *Graduate Group in Ecology Awards committee member*, UC Davis \hfill 2019  
 *Girls Outdoor and Leadership curriculum member*, UC Davis \hfill 2018, 2019  
-*Eco/evo seminar committee member*, UC Davis \hfill 2017--current 
+*Eco/evo seminar committee member*, UC Davis \hfill 2017--2019 
 
 # Past Research Appointments
 
@@ -136,7 +140,8 @@ Pembroke, VA
 
 # Technical skills  
 
-Culture-based methods, microscopy, enzyme assays, DNA extraction, PCR, gel electrophoresis  
-R, ArcGIS, QGIS, QIIME  
+R, Stan, Github, ArcGIS, QGIS  
+Multi-level statistical analyses in Bayesian framework  
+Culture-based methods, microscopy, enzyme assays, molecular barcoding  
 Taxonomic expertise in California trees and shrubs, California mushrooms, diagnosis of common forest pathogens  
 Wilderness First Responder and CPR certified  
